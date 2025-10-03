@@ -48,7 +48,7 @@ The dataset contains the following attributes:
  'ship_state', 'ship_postal_code', 'ship_country', 'month',
  'month_name', 'day', 'monthly_sale_analysis']
 ```
-
+Dataset Link: https://www.kaggle.com/code/sindhu1304/sql-amazon-sales/notebook
 ---
 
 ## 🚀 Step-by-Step Guide
